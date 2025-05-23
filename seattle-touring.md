@@ -4,7 +4,9 @@ This is a running list of things to consider doing when visiting Seattle. They a
 
 Feel free to send me other ideas and opinions! 
 
-## Seattle city 🏢
+## Things to Do
+
+### Seattle city 🏢
 * Pike Place 1️⃣
 * Gum Wall 1️⃣
 * Space Needle 1️⃣
@@ -18,12 +20,44 @@ Feel free to send me other ideas and opinions!
 * Ride the bus
 * Ride the ferry
 
-## Long day trips in WA
+### Nature, non-active 🌲
+* Snoqualmie Falls 1️⃣
+* Gold Creek Pond (Winter)
+* Tulips
+* Crystal Mountain
+* Snoqualmie River Trail
+
+### Nature, active 🍃
+* Hike Rattlesnake Ledge on a not-cloudy day 1️⃣
+* Kayaking (summer) 2️⃣
+* Hike Poo Poo Point
+* Hike Mt. Si
+* Hike Mailbox Peak
+* XC Skiing (winter)
+* Downhill skiing (winter)
+* Snowshoe (winter)
+* Mountain biking
+
+### Museums 🖼️
+* Museum of Pop Culture (MoPop)
+* Chihuly Garden and Glass
+* Museum of Flight
+
+### Unique ⭐
+* Whale watching
+* Teatro Zin Zanni
+* Hot tub boat
+* Treehouses
+
+### Long day trips in WA 🚗
 * Leavenworth (Fake Bavarian town, beautiful scenery, lots of wineries, breweries, and restaurants)
 * San Juan Islands (Gorgeous ferry ride, whale watching, lots of wineries and restaurants)
 * North Cascades National Park
 * Mt. Rainier National Park
 * Olympic Peninsula (Hurricane Ridge, Port Angeles, Sol Duc Rainforest)
+* Mt. Vernon/Deception Pass (Beautiful scenery, sometimes tulips, beach)
+* Vancouver, Canada
+* Portland, Oregon
 
 ## Food 🥡
 There are so many great restaurants on the Eastside and in Seattle. I’ve listed a handful here, but let us know if you find something else you’re interested in, as we or one of our friends have probably been there and can give info!
@@ -119,40 +153,3 @@ There are so many wineries around, but I’ve listed ones below that we’ve gon
 *	…TONS of other options
 
 If you’re up for a drive, it’s 2 hours to Leavenworth, which has a lot of wine and breweries as well as the wine country of Washington (Ellensburg, Yakima, Wapato).
-
-## Nature, non-active 🌲
-* Snoqualmie Falls 1️⃣
-* Gold Creek Pond (Winter)
-* Tulips
-* Crystal Mountain
-* Snoqualmie River Trail
-
-## Nature, active 🍃
-* Hike Rattlesnake Ledge on a not-cloudy day 1️⃣
-* Kayaking (summer) 2️⃣
-* Hike Poo Poo Point
-* Hike Mt. Si
-* Hike Mailbox Peak
-* XC Skiing (winter)
-* Downhill skiing (winter)
-* Snowshoe (winter)
-* Mountain biking
-
-## Museums 🖼️
-* Museum of Pop Culture (MoPop)
-* Chihuly Garden and Glass
-* Museum of Flight
-
-## Unique ⭐
-* Whale watching
-* Teatro Zin Zanni
-* Hot tub boat
-* Treehouses
-
-## Go far out 🚗
-* Orcas Island
-* Mt. Vernon
-* Portland
-* Vancouver
-* Olympic National Forest
-* Leavenworth
