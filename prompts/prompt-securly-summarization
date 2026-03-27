@@ -1,0 +1,35 @@
+I need a script that I can run on my local computer that will access my local Outlook application, check a specific folder (Inbox > Securly Reports) for the last business week (M-F) of the day the script was run and summarize the information on a per-class, per-student, per-website basis.
+
+In the Outlook folder (Inbox > Securly Reports), there are HTML emails for each class each day (ex: STEM-ADV ROBOTICS & AUTOMATION, CS DISCOVERIES 2- GAME DESIGN, DESIGN & MODELING) that list the students in that class that day, what websites they visted, and for how long.
+
+The summary output should be formatted as a Word document, with the file name being the class and the week range, in the format: <ClassName>-Week of <YYYY-MM-DD>-<YYYY-MM-DD>
+
+Class names should be reformatted from:
+STEM-ADV ROBOTICS & AUTOMATION to Adv. Robotics
+CS DISCOVERIES 2- GAME DESIGN to Game Design
+DESIGN & MODELING to Design & Modeling
+
+The summarization should have a table that includes columns of:
+Student Name
+Websites Visited (per student)
+Dates Visited (per website)
+Total Minutes Visited (per website)
+Participation Deduction
+Referral Qualified
+Total Instructional Minutes Spent
+
+Student Name, Websites Visited, Dates Visited, and Total Minutes Visited are self-explanatory.
+
+Participation Deduction is populated by:
+If the website was visited for <10 minutes, Participation Deduction is 0.
+If the website was visited for 10-19:59 minutes, Participation Deduction is -1.
+If the website was visited for 20 minutes or more, Participation Deduction is -2.
+
+Referral Qualified is populated by:
+If the website was visited for <10 minutes, Referral Qualified is -.
+If the website was visited for >= 10 minutes, Referral Qualified is Yes.
+
+Total Instructional Minutes Spent is populated by:
+Amount of time website was visited, divided by 235, and displayed in percentage form.
+
+I should be able to run this script manually from my desktop.
